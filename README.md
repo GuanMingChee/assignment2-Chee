@@ -20,3 +20,5 @@ It is one of the best getaway places. It is the largest of French Polynesia's is
 * Water Shoes
 * Insect Repellant
 * Mask and Snorkel
+
+[About Me](https://github.com/GuanMingChee/assignment2-Chee/blob/main/AboutMe.md)
