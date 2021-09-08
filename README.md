@@ -14,3 +14,9 @@ It is one of the best getaway places. It is the largest of French Polynesia's is
     - The flight may take around 15 hours. 
     - You may want to contact the local tour guide in advance for plans in Tahiti.
 
+**Items to bring**
+* Sunglasses
+* Sunscreen
+* Water Shoes
+* Insect Repellant
+* Mask and Snorkel
