@@ -4,3 +4,14 @@ I am from an island in Malaysia. A game that I palyed for more than 10 years is 
 [Link to my pic!](https://raw.githubusercontent.com/GuanMingChee/assignment2-Chee/main/about_me_image.jpg)
 
 ![about me](about_me_image.jpg)
+
+---
+## Favorite Food/Drinks
+
+| Food/Drinks | Location | Cost($) |
+| ----------- | ----------- | ----------- |
+| Pho | Mostly any asian restaurant (Simply Siam Thai Restaurant) | 5-10 |
+| Hotpot | Hotpot restaurant (Lotus Hot Pot & Grill) | 20++ (depending on ingredients) |
+| Samosas | Walmart | 15 per pack |
+
+Both 3 delicacies above are Asian foods, where Pho is from Vietnam, Hotpot is from China and Samosas is from southern part of India. Pho is basically rice noodles with beef/chicken broth topped with fresh Thai basil and bean sprouts. This delicacy gives a strong taste of essence of bones from cow/chicken with a refreshing kick from the greens. Hotpot, in the other hand, is a delicacy which broth is being cooked in a big pot and ingredients are placed into the broth for a slight cooking in the simmering broth. It is a big feast that can be a good opportunity for gathering! Last but not least, amosas is an Indian snack that can fit one in your mouth per samosas. It consist of lentils and potatoes and meat.
